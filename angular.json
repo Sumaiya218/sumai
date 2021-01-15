@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sumai"
+    }
+  },
+  "defaultProject": "sumai",
+  "cli": {
+    "analytics": "fb128be1-e15f-4616-8152-fdc6c20acbba"
+  }
 }
